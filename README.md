@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1cYinfinity&theme=" alt="1cYinfinity" /></a> </p>
 
-- 🔭 I’m currently working on **secret project**
+- 🔭 I’m an **Cybersecurity Researcher**
 - 🌱 I’m currently learning **Cybersecurity.**
 - 💬 Ask me about **Networking,Linux,Hacking,Bash Script,etc..**
 - 📫 How to reach me **your_infinity@proton.me**
